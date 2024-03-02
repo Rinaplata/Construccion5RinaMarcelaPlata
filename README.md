@@ -1,4 +1,4 @@
-# Nombre de la Materia
+# Electiva II 
 # Integrantes del Equipo
 - [Rina Marcela Plata](enlace-al-perfil-github)
 
