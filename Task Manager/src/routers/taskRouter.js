@@ -4,9 +4,9 @@ const {getAllTasks, getTaskId,  putTasks, postTasks, deleteTasks } = require('..
 
 
 router.get('/task', getAllTasks);
-router.get('/tasks/:id', getTaskId);
-router.post('/tasks', postTasks);
-router.put('/tasks/:id', putTasks);
-router.delete('/tasks/:id', deleteTasks)
+router.get('/task/:id', getTaskId);
+router.post('/task', postTasks);
+router.put('/task/:id', putTasks);
+router.delete('/task/:id', deleteTasks)
 
 module.exports = router;
