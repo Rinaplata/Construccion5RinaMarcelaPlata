@@ -2,19 +2,19 @@ const swaggerOptions = {
     swaggerDefinition: {
         openapi: '3.0.0',
         info: {
-            title: 'tasks ',
-            description: 'Employee API Information',
+            title: 'Tasks Manager',
+            description: 'task manager API information',
             contact: {
-                name: 'Sagi Weizmann'
+                name: 'Rina Plata'
             },
         },
         servers: [
             {
-                url: "http://localhost:8080/v1"
+                url: "http://localhost:3000/api/v1"
             }
         ],
     },
-    apis: ['./src/api/routes/v1/*.js']
+    apis: [`${__dirname}/routers/taskRouter.js`]
 }
 
 module.exports = swaggerOptions;
