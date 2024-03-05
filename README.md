@@ -1,22 +1,25 @@
 # Electiva II 
-# Integrantes del Equipo
+
+## Integrantes del Equipo
 - [Rina Marcela Plata](enlace-al-perfil-github)
 
-# Tecnología en que se Desarrolló
-- Express js 
-- node js 
-- swagger 
+## Tecnología en que se Desarrolló
+- Express.js 
+- Node.js 
+- Swagger 
 
-- <TECONOLOGIA>
-# Construccion5RinaMarcelaPlata
-Es una API para gestionar varias tareas, se pueden realizar diferentes acciones 
-como: insertar, acutalizar, eliminar y buscar. Ademas con swagger facilita el entendimiento de la API
+## Descripción del Proyecto
+**Construccion5RinaMarcelaPlata** es una API diseñada para la gestión de varias tareas, permitiendo realizar diversas acciones como inserción, actualización, eliminación y búsqueda. El uso de Swagger facilita el entendimiento y la documentación de la API.
 
-# Como Correr el proyecto
-1. **Clona el Repositorio:  
+## Ejecución del Proyecto
+### Pasos para Ejecutar el Proyecto:
+1. **Clonar el Repositorio:**  
+   ```bash
+   git clone https://github.com/Rinaplata/Construccion5RinaMarcelaPlata.git
+
+2. **Abrir el terminar en la ruta base del proyecto:  
 ```bash
-1. git clone https://github.com/Rinaplata/Construccion5RinaMarcelaPlata.git
-2. npm install  
-3. node app.js
+1. npm install  
+2. node app.js
 
 
