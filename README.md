@@ -17,9 +17,9 @@
    ```bash
    git clone https://github.com/Rinaplata/Construccion5RinaMarcelaPlata.git
 
-2. **Abrir el terminar en la ruta base del proyecto:  
-```bash
-1. npm install  
-2. node app.js
+2. **Abrir el terminar en la ruta base del proyecto:** 
+   ```bash
+   npm install  
+   node app.js
 
 
